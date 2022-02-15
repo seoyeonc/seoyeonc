@@ -7,20 +7,20 @@
 - Statistics(2021 ~ , Masters)
 
 #### 🔭 CAREER
-- Statistician(Clinical Statistics Team) (2020.10 ~)
+- Statistician(Clinical Statistics Team) (2020 ~)
 
 #### 🌱 SKILL
 - R
 - SAS
 - SPSS
-- PYTHON
+- Python
 - SQL
  
 #### 👯 CERTIFICATE
-- SAS BASE PROGRAMMING
+- SAS Base Programming for SAS 9 Score Refort
 - SQLD
 - Survey Analyst,Junior
-- MOS 2014
+- Microsoft Office Specialist Master 2016
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
 
@@ -30,8 +30,8 @@
 #### 🤔 FAVORITE
 - Reading a book
 
-#### 💬 
-- Ask me about ...
+#### 💬 LANGUAGE
+- English
 
 #### 📫 CONTACT
 - linkedin
