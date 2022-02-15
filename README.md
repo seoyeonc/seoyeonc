@@ -14,6 +14,7 @@
 - SAS
 - SPSS
 - PYTHON
+- SQL
  
 #### 👯 CERTIFICATE
 - SAS BASE PROGRAMMING
@@ -27,13 +28,12 @@
 - 
 
 #### 🤔 FAVORITE
-- reading a book
+- Reading a book
 
 #### 💬 
 - Ask me about ...
 
 #### 📫 CONTACT
-- mail
 - linkedin
 - notion
 - blog
