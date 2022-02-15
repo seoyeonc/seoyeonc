@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON?%20WHO%20IS%20SHE?&Color=A0522D&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON%20?&Color=A0522D&fontSize=40)
 
 #### Hi there 👋
 
@@ -23,7 +23,7 @@
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
 
-#### 😄 
+#### 😄 PROJECT
 - 
 
 #### 🤔 FAVORITE
