@@ -38,10 +38,12 @@
 - notion
 - blog
 
-#### ⚡ 
+#### ⚡ MISSION
 - Fun fact: ...
 
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=seoyeonc)
 
 ![top](https://github-readme-stats.vercel.app/api?username=seoyeonc&count_private=true)
 
