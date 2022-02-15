@@ -17,7 +17,7 @@
 - SQL
  
 #### 👯 CERTIFICATE
-- SAS Base Programming for SAS 9 Score Refort
+- SAS Base Programming for SAS 9 Score Report
 - SQLD
 - Survey Analyst,Junior
 - Microsoft Office Specialist Master 2016
