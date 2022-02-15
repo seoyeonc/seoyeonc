@@ -1,12 +1,12 @@
- ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON's%20PLACE&Color=A0522D&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON?%20WHO%20IS%20SHE?&Color=A0522D&fontSize=40)
 
 #### Hi there 👋
 
-#### 😄 DEGREE
+#### 👩‍🎓 EDUCATION
 - Statistics(2014 ~ 2018, Bachelor)
 - Statistics(2021 ~ , Masters)
 
-#### 🔭 WORK
+#### 🔭 CAREER
 - Statistician(Clinical Statistics Team) (2020.10 ~)
 
 #### 🌱 SKILL
@@ -15,7 +15,7 @@
 - SPSS
 - PYTHON
  
-#### 👯 License
+#### 👯 CERTIFICATE
 - SAS BASE PROGRAMMING
 - SQLD
 - Survey Analyst,Junior
@@ -23,8 +23,11 @@
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
 
-#### 🤔 
-- I’m looking for help with ...
+#### 😄 
+- 
+
+#### 🤔 FAVORITE
+- reading a book
 
 #### 💬 
 - Ask me about ...
@@ -33,6 +36,7 @@
 - mail
 - linkedin
 - notion
+- blog
 
 #### ⚡ 
 - Fun fact: ...
