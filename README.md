@@ -27,9 +27,6 @@
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
 
-#### 🤔 FAVORITE
-- Reading a book
-
 #### 💬 LANGUAGE
 - Korean
 - English
@@ -38,9 +35,12 @@
 - Linkedin
 - Notion
 - Blog
+- 
+#### 🤔 FAVORITE
+- 
 
-#### ⚡ MISSION
-- Fun fact: ...
+#### ⚡ MBTI
+- ENFJ
 
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 
