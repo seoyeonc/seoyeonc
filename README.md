@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON%20💪🏻&Color=A0522D&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON's%20GITHUB&Color=A0522D&fontSize=40)
 
 #### Hi there 👋
 
