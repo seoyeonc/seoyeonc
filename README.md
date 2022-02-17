@@ -1,6 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON's%20GITHUB&Color=A0522D&fontSize=40)
 
-#### Hi there 👋
+> Hi, there. Welcome to my github. I started this Github from 2021, which is related to something that I learned.
 
 #### 👩‍🎓 EDUCATION
 - Statistics(2014 ~ 2018, Bachelor)
@@ -54,7 +54,7 @@
 **seoyeonc/seoyeonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
