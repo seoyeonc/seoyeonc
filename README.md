@@ -35,7 +35,7 @@
 - Linkedin
 - Notion
 - Blog
-- 
+ 
 #### 🤔 FAVORITE
 - 
 
