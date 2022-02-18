@@ -21,7 +21,7 @@
  
 #### 👯 CERTIFICATE
 - SAS Base Programming for SAS 9 Score Report
-- SQLD
+- SQL Developer
 - Survey Analyst,Junior
 - Microsoft Office Specialist Master 2016
 - Computer Specialist in Spreadsheet & Database Level-1
