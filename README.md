@@ -3,8 +3,8 @@
 > Hi, there. Welcome to my github. I started this Github from 2021, which is related to something that I learned.
 
 #### 👩‍🎓 EDUCATION
-- Statistics(2014 ~ 2018, Bachelor)
-- Statistics(2021 ~ , Masters)
+- Statistics(2014 ~ 2018, Bachelor's Degree)
+- Statistics(2021 ~ , Master's Degree)
 
 #### 🔭 CAREER
 - Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020 ~)
