@@ -7,7 +7,7 @@
 - Statistics(2021 ~ , Masters)
 
 #### 🔭 CAREER
-- Statistician(Clinical Statistics Team) (2020 ~)
+- Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020 ~)
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
