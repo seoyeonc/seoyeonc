@@ -8,6 +8,12 @@
 
 #### 🔭 CAREER
 - Statistician(Clinical Statistics Team) (2020 ~)
+  - Randomization code
+  - Statistical Analysis Plan development
+  - Pharmacokinetic analysis
+  - Statistical analysis
+  - Statistical programming
+  - Statistical reporting
 
 #### 😄 PROJECT
 - more than 20 clinical pharmacology studies
@@ -52,12 +58,7 @@
 
 <!--
 
-Randomization code
-Statistical Analysis Plan development
-Pharmacokinetic analysis
-Statistical analysis
-Statistical programming
-Statistical reporting
+
 
 **seoyeonc/seoyeonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
