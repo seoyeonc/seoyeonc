@@ -33,6 +33,9 @@
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
 
+#### 🤟 I'm interested in ...
+- 
+
 #### 💬 LANGUAGE
 - Korean
 - English
