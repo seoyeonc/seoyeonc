@@ -46,7 +46,7 @@
 - Blog
  
 #### 🤔 FAVORITE
-- 
+- Reading a book
 
 #### ⚡ MBTI
 - ENFJ
