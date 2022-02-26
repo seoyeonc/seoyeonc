@@ -78,7 +78,7 @@ Hi there 👋
 -->
 
 
-
+#### 👻
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -93,6 +93,7 @@ Hi there 👋
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=%white)
 ![RStudio](https://img.shields.io/badge/RStudio-%2375AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
 
+#### OS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
