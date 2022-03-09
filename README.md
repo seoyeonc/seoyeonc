@@ -2,6 +2,11 @@
 
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
+#### 🐕 In 2nd semester, I'll learn ..
+- Special Big Data Analysis
+- Theoritical Statistics
+- Applied Statistics
+
 #### 👩‍🎓 EDUCATION
 - Statistics(2014 ~ 2018, Bachelor's Degree)
 - Statistics(2021 ~ , Master's Degree)
