@@ -2,7 +2,7 @@
 
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
-#### 🐕 In this semester, I'll be learning ..
+#### 🐕 2nd semester
 - Special Big Data Analysis
 - Theoritical Statistics
 - Applied Statistics
