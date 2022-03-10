@@ -24,11 +24,11 @@
 - more than 20 clinical pharmacology studies
 
 #### 🌱 SKILL
-- R         🌟🌟🌟🌟🌟
-- SAS       🌟🌟🌟🌟🌟
-- SPSS      🌟🌟🌟🌟
-- Python    🌟🌟🌟🌟
-- SQL       🌟🌟🌟🌟
+- R         ⭐⭐⭐⭐⭐
+- SAS       ⭐⭐⭐⭐⭐
+- SPSS      ⭐⭐⭐⭐
+- Python    ⭐⭐⭐⭐
+- SQL       ⭐⭐⭐⭐
  
 #### 👯 CERTIFICATE
 - SAS Base Programming for SAS 9 Score Report
