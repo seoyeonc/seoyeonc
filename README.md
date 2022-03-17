@@ -21,7 +21,7 @@
   - Statistical reporting
 
 #### 😄 PROJECT
-- more than 20 clinical pharmacology studies
+- more than 30 clinical pharmacology studies
 
 #### 🌱 SKILL
 - R         ⭐⭐⭐⭐⭐
