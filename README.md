@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=FFE4C4AD&section=header&text=SEOYEON's%20GITHUB&Color=A0522D&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=f7e6fa&section=header&text=SEOYEON's%20GITHUB&Color=A0522D&fontSize=40)
 
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
