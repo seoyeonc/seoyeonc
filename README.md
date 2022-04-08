@@ -8,8 +8,9 @@
 - Applied Statistics
 
 #### 👩‍🎓 EDUCATION
-- Statistics(2014 ~ 2018, Bachelor's Degree)
-- Statistics(2021 ~ , Master's Degree)
+- Jeonbuk national university
+  - Statistics(2014 ~ 2018, Bachelor's Degree)
+  - Statistics(2021 ~ , Master's Degree)
 
 #### 🔭 CAREER
 - Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020 ~)
@@ -51,7 +52,7 @@
 - Blog
  
 #### 🤔 FAVORITE
-- Reading a book
+- Reading book
 
 #### ⚡ MBTI
 - ENFJ
