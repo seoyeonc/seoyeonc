@@ -2,11 +2,6 @@
 
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
-#### 🐕 2nd semester
-- Special Big Data Analysis
-- Theoritical Statistics
-- Applied Statistics
-
 #### 👩‍🎓 EDUCATION
 - Jeonbuk national university
   - Statistics(2014.03 ~ 2018.02, Bachelor's Degree)
