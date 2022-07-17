@@ -36,7 +36,6 @@
 
 #### 🤟 I'm interested in ...
 - 
-- 
 
 #### 💬 LANGUAGE
 - Korean
