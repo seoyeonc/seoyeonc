@@ -24,7 +24,7 @@
 - SAS       ⭐⭐⭐⭐⭐
 - SPSS      ⭐⭐⭐⭐⭐
 - Python    ⭐⭐⭐⭐⭐
-- SQL       ⭐⭐⭐⭐
+- SQL       ⭐⭐⭐⭐⭐
  
 #### 👯 CERTIFICATE
 - SAS Base Programming for SAS 9 Score Report
