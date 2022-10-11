@@ -20,8 +20,7 @@
   - Practicing Neural Network using Keras
   - Restricted Boltzmann Machine
   - CNN/RNN/LSTM
-
-- 주요 시장 예측을 위한 딥러닝 실습
+  - practicing Deep Learning for main market forcast
   
 - Nanum Space co, Ltd., Statistician(Clinical Statistics Team) (2022.10 ~ )
   - Randomization code
