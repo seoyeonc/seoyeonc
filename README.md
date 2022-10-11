@@ -16,7 +16,7 @@
   - Statistical programming
   - Statistical reporting
   
- - Nanum Space co, Ltd., Statistician(Clinical Statistics Team) (2022.10 ~ )
+- Nanum Space co, Ltd., Statistician(Clinical Statistics Team) (2022.10 ~ )
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
