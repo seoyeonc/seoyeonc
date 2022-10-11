@@ -8,7 +8,15 @@
   - Statistics(2021.09 ~ , Master's Degree)
 
 #### 🔭 CAREER
-- Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020 ~ 2022)
+- Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020.10 ~ 2022.09)
+  - Randomization code
+  - Statistical Analysis Plan development
+  - Pharmacokinetic analysis
+  - Statistical analysis
+  - Statistical programming
+  - Statistical reporting
+  
+ - Nanum Space co, Ltd., Statistician(Clinical Statistics Team) (2022.10 ~ )
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
