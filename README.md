@@ -47,7 +47,7 @@
 - Microsoft Office Specialist Master 2016
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
-- Tensorflow Developer Certificate(2022.10.21.)
+- Tensorflow Developer Certificate(Tensorflow)
 
 #### 🤟 I'm interested in ...
 - 
