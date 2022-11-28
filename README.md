@@ -49,10 +49,6 @@
 - Engineer Information Processing
 - Tensorflow Developer Certificate(Tensorflow)
 
-#### 🤟 I'm interested in ...
-- 
-- 
-
 #### 💬 LANGUAGE
 - Korean
 - English
