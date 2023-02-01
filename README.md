@@ -56,10 +56,9 @@
 #### 📫 CONTACT
 - Linkedin
 - Notion
-- Blog
  
 #### 🤔 FAVORITE
-- Reading books
+- Reading books or Journals
 
 #### ⚡ MBTI
 - ENFJ
