@@ -19,12 +19,6 @@
   - Statistical programming
   - Statistical reporting
   
-- Big Data Academy, Finance, Teaching Assistant (2022.10)
-  - Practicing Neural Network using Keras
-  - Restricted Boltzmann Machine
-  - CNN/RNN/LSTM
-  - practicing Deep Learning for main market forecast
-  
 - Nanum Space co, Ltd., Statistician / Data Analyst(Data Analytics Team) (2022.10 ~ )
   - Randomization code
   - Statistical Analysis Plan development
@@ -35,6 +29,19 @@
 
 #### 😄 PROJECT
 - more than 40 clinical pharmacology studies
+
+#### 👍🏻 WORK EXPERIENCE
+- Big Data Academy, Finance, Teaching Assistant (2022.10)
+  - Practicing Neural Network using Keras
+  - Restricted Boltzmann Machine
+  - CNN/RNN/LSTM
+  - practicing Deep Learning for main market forecast
+
+- Big DATA Convergence And Open Sharing System, Teaching Assistant (2023.01)
+  - Python Programming
+
+#### ✋ RESEARCH
+- Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data, Research assistant (2021.09~2022.08)
 
 #### 🌱 SKILL
 - R         ⭐⭐⭐⭐⭐
