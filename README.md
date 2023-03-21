@@ -3,7 +3,7 @@
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
 #### 🐥 INTEREST
-- ㅐ
+- dasdf
 
 #### 👩‍🎓 EDUCATION
 - Jeonbuk national university
