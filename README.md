@@ -6,7 +6,7 @@
 #### 📫 CONTACT
 - E-mail : **chltjdus1212@gmail.com**
 
-#### This is my repositories.
+#### This is my current repositories.
 - [Blog for study](https://seoyeonc.github.io/md/)
 - [Blog for paper](https://seoyeonc.github.io/blog/)
 
