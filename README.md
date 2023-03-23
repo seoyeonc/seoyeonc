@@ -4,7 +4,7 @@
 
 
 #### 📫 CONTACT
-- Gmail : **chltjdus1212@gmail.com**
+- E-mail : **chltjdus1212@gmail.com**
 
 #### This is my repositories.
 - [Blog for study](https://seoyeonc.github.io/md/)
@@ -41,6 +41,7 @@
 
 #### 😄 PROJECT
 - more than 40 clinical pharmacology studies
+- working on few pharmacodynamic studies
 
 #### 👍🏻 WORK EXPERIENCE
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
