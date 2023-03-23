@@ -4,7 +4,7 @@
 
 
 #### 📫 CONTACT
-- [Gmail](chltjdus1212@gmail.com)
+- Gmail : **chltjdus1212@gmail.com**
 
 #### This is my repositories.
 - [Blog for study](https://seoyeonc.github.io/md/)
