@@ -41,7 +41,7 @@
 
 #### 😄 PROJECT
 - more than 40 clinical pharmacology studies
-- working on few pharmacodynamic studies
+- working on few clinical pharmacodynamic studies
 
 #### 👍🏻 WORK EXPERIENCE
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
