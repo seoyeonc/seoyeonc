@@ -11,8 +11,8 @@
 - [Blog for paper](https://seoyeonc.github.io/blog/)
 
 (I don't use those blogs because of limited fastai service)
-  - [Blog for study](https://seoyeonc.github.io/chch/)
-  - [Blog for paper](https://seoyeonc.github.io/ms/)
+  - [past Blog for study](https://seoyeonc.github.io/chch/)
+  - [past Blog for paper](https://seoyeonc.github.io/ms/)
 
 #### 🐥 INTEREST
 - dasdf
