@@ -2,6 +2,10 @@
 
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
+
+#### 📫 CONTACT
+- [Gmail](chltjdus1212@gmail.com)
+
 #### This is my repositories.
 - [Blog for study](https://seoyeonc.github.io/md/)
 - [Blog for paper](https://seoyeonc.github.io/blog/)
@@ -70,10 +74,6 @@
 #### 💬 LANGUAGE
 - Korean
 - English
-
-#### 📫 CONTACT
-- Linkedin
-- Notion
  
 #### 🤔 FAVORITE
 - Reading books or Journals
