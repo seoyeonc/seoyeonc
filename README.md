@@ -3,8 +3,8 @@
 > Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
 
 This is my repositories.
-- (Blog for study)[https://seoyeonc.github.io/md/]
-- (Blog for paper)[https://seoyeonc.github.io/blog/]
+- !(Blog for study)[https://seoyeonc.github.io/md/]
+- !(Blog for paper)[https://seoyeonc.github.io/blog/]
 
 Not using blog because of limited fastai service
 - (Blog for study)[https://seoyeonc.github.io/chch/]
