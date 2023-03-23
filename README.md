@@ -6,10 +6,10 @@
 - [Blog for study](https://seoyeonc.github.io/md/)
 - [Blog for paper](https://seoyeonc.github.io/blog/)
 
-(I don't use those blog because of limited fastai service)
+(I don't use those blogs because of limited fastai service)
   - [Blog for study](https://seoyeonc.github.io/chch/)
   - [Blog for paper](https://seoyeonc.github.io/ms/)
-- 
+
 #### 🐥 INTEREST
 - dasdf
 
