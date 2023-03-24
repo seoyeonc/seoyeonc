@@ -45,11 +45,11 @@
 
 #### 👍🏻 WORK EXPERIENCE
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
-- (Deep learning algorithms and deep learning-based stock prediction analysis practice)
-  - Practicing Neural Network using Keras
-  - Restricted Boltzmann Machine
-  - CNN/RNN/LSTM
-  - practicing Deep Learning for main market forecast
+  - (Deep learning algorithms and deep learning-based stock prediction analysis practice)
+    - Practicing Neural Network using Keras
+    - Restricted Boltzmann Machine
+    - CNN/RNN/LSTM
+    - practicing Deep Learning for main market forecast
 
 - Big DATA Convergence And Open Sharing System, Teaching Assistant (2023.01)
   - Python Programming
