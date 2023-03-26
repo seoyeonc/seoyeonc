@@ -7,8 +7,9 @@
 - E-mail : **chltjdus1212@gmail.com**
 
 #### Those are my current repositories.
-- [Blog for study](https://seoyeonc.github.io/md/)
-- [Blog for paper](https://seoyeonc.github.io/blog/)
+- [Blog for study with python](https://seoyeonc.github.io/md/)
+- [Blog for study with julia[(https://seoyeonc.github.io/julia/)
+- [Blog for paper with python](https://seoyeonc.github.io/blog/)
 
 (I don't use those blogs because of limited fastai service)
   - [past Blog for study](https://seoyeonc.github.io/chch/)
