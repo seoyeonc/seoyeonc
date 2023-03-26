@@ -1,6 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=shark&color=f7e6fa&section=header&text=SEOYEON's%20GITHUB&Color=A0522D&fontSize=40)
 
-> Hi, there. Welcome to my github. I started this from 2021, which is related to something that I've learned. 🦄
+> Hi, welcome to my GitHub. I started using this platform in 2021 to showcase my projects and skills related to topics I have learned. 🦄
 
 
 #### 📫 CONTACT
