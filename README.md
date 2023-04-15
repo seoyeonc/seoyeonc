@@ -36,9 +36,11 @@
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
+  - Pharmacodynamic analysis
   - Statistical analysis
   - Statistical programming
   - Statistical reporting
+  - Data Visualization of Clinical trial data
 
 #### 😄 PROJECT
 - more than 40 clinical pharmacology studies
