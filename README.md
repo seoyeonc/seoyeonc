@@ -13,7 +13,7 @@
 
 (I don't use those blogs because of limited fastai service)
   - [past Blog for study](https://seoyeonc.github.io/chch/)
-  - [past Blog for paper](https://seoyeonc.github.io/ms/)
+  - [past Blog for article](https://seoyeonc.github.io/ms/)
 
 #### 🐥 INTEREST
 - dasdf
