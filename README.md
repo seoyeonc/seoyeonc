@@ -6,14 +6,8 @@
 #### 📫 CONTACT
 - E-mail : **chltjdus1212@gmail.com**
 
-#### Those are my current repositories.
-- [Blog for study with python](https://seoyeonc.github.io/md/)
-- [Blog for study with julia](https://seoyeonc.github.io/julia/)
-- [Blog for paper with python](https://seoyeonc.github.io/blog/)
-
-(I don't use those blogs because of limited fastai service)
-  - [past Blog for study](https://seoyeonc.github.io/chch/)
-  - [past Blog for article](https://seoyeonc.github.io/ms/)
+#### Seoyeon's Blog
+- [Blog](https://seoyeonc.github.io/sy_hub/)
 
 #### 🐥 INTEREST
 - dasdf
