@@ -15,7 +15,7 @@
 #### 👩‍🎓 EDUCATION
 - Jeonbuk national university
   - Statistics(2014.03 ~ 2018.02, Bachelor's Degree)
-  - Statistics(2021.09 ~ , Master's Degree)
+  - Statistics(2021.09 ~ 2023.08, Master's Degree)
 
 #### 🔭 CAREER
 - Jeonbuk national university hospital, Center for Clinical Pharmacology, Statistician(Clinical Statistics Team) (2020.10 ~ 2022.09)
