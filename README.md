@@ -50,6 +50,10 @@
 
 - Big DATA Convergence And Open Sharing System, Teaching Assistant (2023.01)
   - Python Programming
+ 
+- Big Data Academy, Finance, Teaching Assistant (2023.09)
+  - Time Series Analysis
+  - ARIMA, SARIMA, Decomposition, Exponential smoothing
 
 #### ✋ RESEARCH
 - Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data, Research assistant (2021.09~2022.08)
