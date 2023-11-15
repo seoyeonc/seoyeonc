@@ -4,7 +4,7 @@
 
 
 #### 📫 CONTACT
-- E-mail : **chltjdus1212@gmail.com**
+- E-mail : **chltjdus1212@jbnu.ac.kr**
 
 #### Seoyeon's Blog
 - [Blog](https://seoyeonc.github.io/sy_hub/)
