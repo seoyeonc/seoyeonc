@@ -10,7 +10,10 @@
 - [Blog](https://seoyeonc.github.io/sy_hub/)
 
 #### 🐥 INTEREST
-- dasdf
+- Machine Learning
+- Graphical Model
+- Time Series Analysis
+- Data Science
 
 #### 👩‍🎓 EDUCATION
 - Jeonbuk national university
