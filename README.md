@@ -9,6 +9,10 @@
 #### Seoyeon's Blog
 - [Blog](https://seoyeonc.github.io/sy_hub/)
 
+#### Code
+`1` GODE
+- https://github.com/seoyeonc/GODE 
+
 #### 🐥 INTEREST
 - Machine Learning
 - Graphical Model
