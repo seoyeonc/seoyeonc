@@ -9,8 +9,8 @@
 #### Seoyeon's Blog
 - [Blog](https://seoyeonc.github.io/sy_hub/)
 
-#### Code
-`1` GODE
+#### Packages
+`1` GODE(-ing)
 - Library: https://github.com/seoyeonc/GODE 
 
 #### 🐥 INTEREST
@@ -82,14 +82,15 @@
 - Tensorflow Developer Certificate(Tensorflow)
 
 #### 💬 LANGUAGE
-- Korean
-- English
+- Korean(native)
+- English(Proficient)
+- Spanish(conversant)
  
 #### 🤔 FAVORITE
 - Reading books or Journals
 
 #### ⚡ MBTI
-- ENFJ
+- ENFJ / INFJ
 
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 
