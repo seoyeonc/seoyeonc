@@ -82,9 +82,9 @@
 - Tensorflow Developer Certificate(Tensorflow)
 
 #### 💬 LANGUAGE
-- Korean(native)
+- Korean(Native)
 - English(Proficient)
-- Spanish(conversant)
+- Spanish(Conversant)
  
 #### 🤔 FAVORITE
 - Reading books or Journals
