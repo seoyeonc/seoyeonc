@@ -11,7 +11,7 @@
 
 #### Code
 `1` GODE
-- https://github.com/seoyeonc/GODE 
+- Library: https://github.com/seoyeonc/GODE 
 
 #### 🐥 INTEREST
 - Machine Learning
