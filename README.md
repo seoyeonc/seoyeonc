@@ -11,8 +11,8 @@
 
 #### Packages
 `1` GODE(-ing)
-- Library: https://github.com/seoyeonc/GODE
-- [Tutorial](https://seoyeonc.github.io/sy_hub/posts/3_Researches/GODE/2023-11-27-GODE_Tutorial.html)
+- [Library](https://github.com/seoyeonc/GODE)
+- [Tutorial](https://seoyeonc.github.io/blog/posts/GODE/2023-11-27-GODE_Tutorial.html)
 
 #### 🐥 INTEREST
 - Machine Learning
