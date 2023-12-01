@@ -56,7 +56,7 @@
 - more than 40 clinical pharmacology studies
 - working on few clinical pharmacodynamic studies
 
-#### 👍🏻 WORK EXPERIENCE
+#### 👍🏻 Teaching ASSISTANT
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
   - *Deep learning algorithms and deep learning-based stock prediction analysis practice*
   - Practicing Neural Network using Keras
@@ -71,9 +71,9 @@
   - Time Series Analysis
   - ARIMA, SARIMA, Decomposition, Exponential smoothing
 
-#### ✋ RESEARCH
-- Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data, Research assistant (2021.09~2022.08)
-- A study of multiscale methods in non-Euclidean data, Research assistant (2023.06~2023.08)
+#### ✋ RESEARCH ASSISTANT
+- Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data, (2021.09~2022.08)
+- A study of multiscale methods in non-Euclidean data, (2023.06~2023.08)
 
 #### 🌱 SKILL
 - R         ⭐⭐⭐⭐⭐
