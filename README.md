@@ -56,7 +56,7 @@
 - more than 40 clinical pharmacology studies
 - working on few clinical pharmacodynamic studies
 
-#### 👍🏻 Teaching ASSISTANT
+#### 👍🏻 TEACHING ASSISTANT
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
   - *Deep learning algorithms and deep learning-based stock prediction analysis practice*
   - Practicing Neural Network using Keras
