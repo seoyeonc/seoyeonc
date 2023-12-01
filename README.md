@@ -73,6 +73,7 @@
 
 #### ✋ RESEARCH
 - Geometric Deep Learning: Statistical Methodology for Non-Euclidean Data, Research assistant (2021.09~2022.08)
+- A study of multiscale methods in non-Euclidean data, Research assistant (2023.06~2023.08)
 
 #### 🌱 SKILL
 - R         ⭐⭐⭐⭐⭐
