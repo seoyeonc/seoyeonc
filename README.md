@@ -24,7 +24,7 @@
 
 #### 🐥 INTEREST
 - Machine Learning
-- Graphical Model
+- Graph Signal
 - Time Series Analysis
 - Data Science
 
