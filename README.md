@@ -10,15 +10,15 @@
 - [Blog](https://seoyeonc.github.io/sy_hub/)
 
 #### Packages
-`1` GODE(-ing)
+`1` [GODE](https://seoyeonc.github.io/GODE_blog/)
 - [Library](https://github.com/seoyeonc/GODE)
 - [Tutorial](https://seoyeonc.github.io/blog/posts/GODE/2023-11-27-GODE_Tutorial.html)
 
-`2` HCAM(-ing)
+`2` [HCAM](https://seoyeonc.github.io/HCAM_blog/)
 - Library - not yet
 - [Tutorial](https://seoyeonc.github.io/blog/posts/CAM/2023-11-29-HCAM_Tutorial.html)
 
-`3` ITTGNN(-ing)
+`3` [ITTGNN](https://seoyeonc.github.io/ITTGNN_blog/)
 - Library - not yet
 - Tutorial - not yet
 
