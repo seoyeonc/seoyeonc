@@ -24,6 +24,11 @@
 - Library - not yet
 - Tutorial - not yet
 
+`4` Text Data Augmentation via ChatGPT
+- Visualization - not yet
+- Library - not yet
+- Tutorial - not yet
+
 #### 🐥 INTEREST
 - Machine Learning
 - Graph Signal
