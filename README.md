@@ -10,7 +10,8 @@
 - [Blog](https://seoyeonc.github.io/sy_hub/)
 
 #### Packages
-`1` [GODE](https://seoyeonc.github.io/GODE_blog/)
+`1` [GODE:Graph fourier transform based Outlier Detection using Empirical Bayesian
+thresholding](https://seoyeonc.github.io/GODE_blog/)
 - [Visualization](https://seoyeonc.github.io/GODE_dashboard/GODE.html)
 - [Library](https://github.com/seoyeonc/GODE)
 - [Tutorial](https://seoyeonc.github.io/GODE_blog/posts/2_research/2023-11-27-GODE_Tutorial.html)
