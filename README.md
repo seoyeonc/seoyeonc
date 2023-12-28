@@ -25,7 +25,7 @@
 - Library - not yet
 - Tutorial - not yet
 
-`4` Text Data Augmentation via ChatGPT
+`4` Integrating Real and ChatGPT-Generated Texts: Enhancing Text Analysis Machine Learning via Large Language Models
 - [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
 - Library - not yet
 - Tutorial - not yet
