@@ -21,6 +21,7 @@
 - [Tutorial](https://seoyeonc.github.io/HCAM_blog/posts/2_research/2023-11-29-HCAM_Tutorial.html)
 
 `3` [ITTGNN](https://seoyeonc.github.io/ITTGNN_blog/)
+- [Visualization](https://seoyeonc.github.io/ITTGNN_dashboard/ITTGNN.html)
 - Library - not yet
 - Tutorial - not yet
 
