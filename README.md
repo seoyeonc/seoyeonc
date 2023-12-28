@@ -26,7 +26,7 @@
 - Tutorial - not yet
 
 `4` Text Data Augmentation via ChatGPT
-- Visualization - not yet
+- [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
 - Library - not yet
 - Tutorial - not yet
 
