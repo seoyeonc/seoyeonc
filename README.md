@@ -21,7 +21,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - Library - not yet
 - [Tutorial](https://seoyeonc.github.io/HCAM_blog/posts/2_research/2023-11-29-HCAM_Tutorial.html)
 
-`3` [ITTGNNIterative Thresholding Temporal Graph Neural Network](https://seoyeonc.github.io/ITTGNN_blog/)
+`3` [ITTGNN: Iterative Thresholding Temporal Graph Neural Network](https://seoyeonc.github.io/ITTGNN_blog/)
 - [Visualization](https://seoyeonc.github.io/ITTGNN_dashboard/ITTGNN.html)
 - Library - not yet
 - Tutorial - not yet
