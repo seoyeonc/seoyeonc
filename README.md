@@ -34,6 +34,10 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 `5` gglite
 - [Library](https://github.com/seoyeonc/gglite)
 
+`6` gglitely
+- [Library](https://github.com/seoyeonc/gglitely)
+
+  
 #### 🐥 INTEREST
 - Machine Learning
 - Graph Signal
