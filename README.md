@@ -26,7 +26,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - Library - not yet
 - Tutorial - not yet
 
-`4` Synthetic Text as Data: On Usefulness and Limitations
+`4` [Synthetic Text as Data: On Usefulness and Limitations](https://github.com/seoyeonc/TextSyn)
 - [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
 - Library - not yet
 - Tutorial - not yet
