@@ -26,7 +26,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - Library - not yet
 - Tutorial - not yet
 
-`4` Integrating Real and ChatGPT-Generated Texts: Enhancing Text Analysis Machine Learning via Large Language Models
+`4` Synthetic Text as Data: On Usefulness and Limitations
 - [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
 - Library - not yet
 - Tutorial - not yet
@@ -58,7 +58,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
   - Statistical programming
   - Statistical reporting
   
-- Nanum Space co, Ltd., Statistician / Data Analyst(Data Analytics Team) (2022.10 ~ )
+- Nanum Space co, Ltd., Statistician / Data Analyst(Data Analytics Team) (2022.10 ~ 2025.05)
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
@@ -110,7 +110,6 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 #### 💬 LANGUAGE
 - Korean(Native)
 - English(Proficient)
-- Spanish(Conversant)
  
 #### 🤔 FAVORITE
 - Reading books or Journals
