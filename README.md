@@ -58,7 +58,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
   - Statistical programming
   - Statistical reporting
   
-- Nanum Space co, Ltd., Statistician / Data Analyst(Data Analytics Team) (2022.10 ~ 2025.05)
+- Nanum Space co, Ltd., Statistician (Data Analytics Team) (2022.10 ~ 2025.05)
   - Randomization code
   - Statistical Analysis Plan development
   - Pharmacokinetic analysis
