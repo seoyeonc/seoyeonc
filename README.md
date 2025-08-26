@@ -4,7 +4,7 @@
 
 
 #### 📫 CONTACT
-- E-mail : **chltjdus1212@jbnu.ac.kr**
+- E-mail : **seoyeonchoi.data@gmail.com**
 
 #### Seoyeon's Blog
 - [Blog](https://seoyeonc.github.io/sy_hub/)
@@ -18,18 +18,13 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 
 `2` [Hierarchical-CAM: CAM-based hierarchical](https://seoyeonc.github.io/HCAM_blog/)
 - [Visualization](https://seoyeonc.github.io/HCAM_dashboard/HCAM.html)
-- Library - not yet
 - [Tutorial](https://seoyeonc.github.io/HCAM_blog/posts/2_research/2023-11-29-HCAM_Tutorial.html)
 
 `3` [ITTGNN: Iterative Thresholding Temporal Graph Neural Network](https://seoyeonc.github.io/ITTGNN_blog/)
 - [Visualization](https://seoyeonc.github.io/ITTGNN_dashboard/ITTGNN.html)
-- Library - not yet
-- Tutorial - not yet
 
 `4` [Synthetic Text as Data: On Usefulness and Limitations](https://github.com/seoyeonc/TextSyn)
 - [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
-- Library - not yet
-- Tutorial - not yet
 
 `5` gglite
 - [Library](https://github.com/seoyeonc/gglite)
@@ -69,7 +64,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
   - Data Visualization of Clinical trial data
 
 #### 😄 PROJECT
-- more than 40 clinical pharmacology studies
+- more than 60 clinical pharmacology studies
 - working on few clinical pharmacodynamic studies
 
 #### 👍🏻 TEACHING ASSISTANT
@@ -92,7 +87,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - A study of multiscale methods in non-Euclidean data, (2023.06~2023.08)
 
 #### 🌱 SKILL
-- R         ⭐⭐⭐⭐⭐
+- R(Shiny)  ⭐⭐⭐⭐⭐
 - SAS       ⭐⭐⭐⭐⭐
 - SPSS      ⭐⭐⭐⭐⭐
 - Python    ⭐⭐⭐⭐⭐
