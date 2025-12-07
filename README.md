@@ -25,6 +25,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 
 `4` [Synthetic Text as Data: On Usefulness and Limitations](https://github.com/seoyeonc/TextSyn)
 - [Visualization](https://seoyeonc.github.io/MBTI_dashboard/results.html)
+- [Link](https://www.mdpi.com/2076-3417/15/10/5460)
 
 `5` gglite
 - [Library](https://github.com/seoyeonc/gglite)
