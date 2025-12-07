@@ -15,6 +15,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - [Visualization](https://seoyeonc.github.io/GODE_dashboard/GODE.html)
 - [Library](https://github.com/seoyeonc/GODE)
 - [Tutorial](https://seoyeonc.github.io/GODE_blog/posts/2_research/2023-11-27-GODE_Tutorial.html)
+- [Link](https://link.springer.com/article/10.1007/s42952-024-00303-1)
 
 `2` [Hierarchical-CAM: CAM-based hierarchical](https://seoyeonc.github.io/HCAM_blog/)
 - [Visualization](https://seoyeonc.github.io/HCAM_dashboard/HCAM.html)
