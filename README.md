@@ -19,7 +19,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 
 `2` CasCAM: CAM
 - [Results](https://guebin.github.io/cascam-results/)
-- [Github](https://github.com/guebin/CasCAM))
+- [Github](https://github.com/guebin/CasCAM)
 - [personal organizing blog](https://seoyeonc.github.io/HCAM_blog/)
 - old
 - [Visualization](https://seoyeonc.github.io/HCAM_dashboard/HCAM.html)
