@@ -100,6 +100,7 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - SQL       ⭐⭐⭐⭐⭐
  
 #### 👯 CERTIFICATE
+- SAS Certified Professional_ Advanced Programming Using SAS 9.4 certificate.
 - SAS Base Programming for SAS 9 Score Report
 - SQL Developer
 - Survey Analyst,Junior
