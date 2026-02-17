@@ -107,7 +107,6 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - Microsoft Office Specialist Master 2016
 - Computer Specialist in Spreadsheet & Database Level-1
 - Engineer Information Processing
-- Tensorflow Developer Certificate(Tensorflow)
 
 #### 💬 LANGUAGE
 - Korean(Native)
