@@ -18,11 +18,11 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 - [Link](https://link.springer.com/article/10.1007/s42952-024-00303-1)
 
 `2` CasCAM: CAM
-- [Results](https://guebin.github.io/cascam-results/)
+- [Supplementary Materials for Research Paper](https://guebin.github.io/cascam-results/)
 - [Github](https://github.com/guebin/CasCAM)
-- [personal organizing blog](https://seoyeonc.github.io/HCAM_blog/)
 - old
-- [Visualization](https://seoyeonc.github.io/HCAM_dashboard/HCAM.html)
+- [personal organizing blog](https://seoyeonc.github.io/HCAM_blog/)
+- [-](https://seoyeonc.github.io/HCAM_dashboard/HCAM.html)
 - [-](https://seoyeonc.github.io/HCAM_blog/posts/2_research/2023-11-29-HCAM_Tutorial.html)
 
 `3` [ITTGNN: Iterative Thresholding Temporal Graph Neural Network](https://seoyeonc.github.io/ITTGNN_blog/)
