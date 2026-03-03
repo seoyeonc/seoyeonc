@@ -70,10 +70,6 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
   - Statistical reporting
   - Data Visualization of Clinical trial data
 
-#### 😄 PROJECT
-- more than 60 clinical pharmacology studies
-- working on few clinical pharmacodynamic studies
-
 #### 👍🏻 TEACHING ASSISTANT
 - Big Data Academy, Finance, Teaching Assistant (2022.10)
   - *Deep learning algorithms and deep learning-based stock prediction analysis practice*
@@ -112,12 +108,6 @@ thresholding](https://seoyeonc.github.io/GODE_blog/)
 #### 💬 LANGUAGE
 - Korean(Native)
 - English(Proficient)
- 
-#### 🤔 FAVORITE
-- Reading books or Journals
-
-#### ⚡ MBTI
-- ENFJ / INFJ
 
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 
